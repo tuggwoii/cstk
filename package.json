@@ -7,6 +7,10 @@
     "postinstall": "cd www && bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+	"type": "git",
+	"url": "https://github.com/tuggwoii/cstk.git"
+  },
   "author": "TuGG",
   "license": "ISC",
   "dependencies": {
